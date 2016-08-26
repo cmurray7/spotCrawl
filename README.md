@@ -1,6 +1,6 @@
-### Spotify Social Network Crawwler
+### Spotify Social Network Crawler
 #### Developed by Carolyn Murray
 
-Intended to gather informatin about the acoustic features of your most played tracks. 
+Intended to gather information about the acoustic features of your most played tracks. 
 
 Also, side project to learn how to use APIs
